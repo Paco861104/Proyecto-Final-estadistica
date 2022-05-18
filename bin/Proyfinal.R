@@ -56,6 +56,6 @@ cor_datos
 cor.test(datos$CLOROFILA, datos$AFE) #-0.507
 cor.test(datos$AFE, datos$GROSOR) #-0.54 
 cor.test(datos$DENS_ESTOM, datos$LONG_ESTOM) #-0.638 
-cor.test(datos$Ct, datos$Nt) #-0.513 si  
-cor.test(datos$Nt, datos$Pt) #0.783 si 
+cor.test(datos$Ct, datos$Nt) #-0.513  
+cor.test(datos$Nt, datos$Pt) #0.783
                  
